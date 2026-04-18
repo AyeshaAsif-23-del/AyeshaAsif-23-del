@@ -8,8 +8,10 @@
 ## 🚀 Skills
 Computer Languages
 - Python, C++, C#, Java, Django, HTML, CSS, JavaScript
+  
 Development Environments
 - VS Code, Android Studio, GitHub, Kaggle, Matlab, Overleaf, Jupyter Notebook
+  
 Operating Systems
 - Windows
 
