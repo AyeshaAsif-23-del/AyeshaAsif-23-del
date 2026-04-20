@@ -16,7 +16,9 @@ Operating Systems
 
 🛠️ Featured Projects
 - Vehicle Rental Management System: A full-stack C# console base application with a MySQL backend.
+  
 - Sentiment Analysis Tool: An AI-powered app using ML.NET to classify text data.
+  
 - Object Detection and classification : An Android/Mobile application utilizing [TensorFlow Lite/YOLO] to identify and classify objects in real-time.
 
 
