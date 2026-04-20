@@ -19,5 +19,4 @@ Operating Systems
 - Sentiment Analysis Tool: An AI-powered app using ML.NET to classify text data.
 - Object Detection and classification : An Android/Mobile application utilizing [TensorFlow Lite/YOLO] to identify and classify objects in real-time.
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAsif-23-del&layout=compact&theme=radical&hide_progress=false)
+
