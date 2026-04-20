@@ -20,5 +20,4 @@ Operating Systems
 - Object Detection and classification : An Android/Mobile application utilizing [TensorFlow Lite/YOLO] to identify and classify objects in real-time.
 
 ## 📊 GitHub Stats
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaAsif-23-del&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAsif-23-del&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAsif-23-del&layout=compact&theme=radical&hide_progress=false)
