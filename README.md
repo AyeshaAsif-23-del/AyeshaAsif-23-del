@@ -14,7 +14,7 @@ Development Environments
 Operating Systems
 - Windows
 
-🛠️ FEATURED PROJECTS
+## 🛠️ FEATURED PROJECTS
 - Vehicle Rental Management System: A full-stack C# console base application with a MySQL backend.
   
 - Sentiment Analysis Tool: An AI-powered app using ML.NET to classify text data.
