@@ -1,10 +1,10 @@
-# Hi 👋 I'm Ayesha
+### Hi 👋 I'm Ayesha
 
-# 💻 ABOUT ME
+### 💻 ABOUT ME
 -  Computer Science Student at KICSIT, Rawalpindi.
 -  Currently Learning: Backend architecture and secure coding practices.
   
-# 🚀 SKILLS
+### 🚀 SKILLS
 Computer Languages
 - Python, C++, C#, Java, Django, HTML, CSS, JavaScript
   
@@ -14,7 +14,7 @@ Development Environments
 Operating Systems
 - Windows
 
-# 🛠️ FEATURED PROJECTS
+### 🛠️ FEATURED PROJECTS
 - Vehicle Rental Management System: A full-stack C# console base application with a MySQL backend.
   
 - Sentiment Analysis Tool: An AI-powered app using ML.NET to classify text data.
