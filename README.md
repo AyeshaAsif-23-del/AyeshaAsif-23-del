@@ -1,23 +1,23 @@
 ## 👋 Hi, I'm Ayesha
 
-**Computer Science Student** at KICSIT, Rawalpindi
-Currently focused on **secure coding practices** and building reliable software systems
+- **Computer Science Student** at KICSIT, Rawalpindi
+- Currently focused on **secure coding practices** and building reliable software systems
 
 ---
 
-## 🚀 Skills
+## Skills
 
 ### Programming Languages
 
-Python • C++ • C# • Java • JavaScript
+- Python , C++ , C# , Java , JavaScript
 
 ### Web and Frameworks
 
-Django • HTML • CSS
+- Django , HTML , CSS
 
 ### Tools and Environments
 
-VS Code • Android Studio • GitHub • Kaggle • MATLAB • Overleaf • Jupyter Notebook
+- VS Code , Android Studio , GitHub , Kaggle , MATLAB , Overleaf , Jupyter Notebook
 
 ### Operating Systems
 
@@ -25,7 +25,7 @@ Windows
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 ### Vehicle Rental Management System
 
@@ -57,10 +57,10 @@ A mobile application using **TensorFlow Lite / YOLO** for:
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
-📧 Email: [your.email@example.com]
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: [your.email@example.com]
 
 ---
 
