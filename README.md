@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ayesha
 
 - **Computer Science Student** at KICSIT, Rawalpindi
-- Currently focused on **secure coding practices** and building reliable software systems
+- Currently focused on **secure coding practices** 
 
 ---
 
